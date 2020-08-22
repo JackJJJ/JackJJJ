@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 -🔭 I know how to write C++, C, C# and Python
 -🌱 I use Unity3D to make games
 -👯 I have participated in Columbia University Summer Program 

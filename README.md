@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**JackJJJ/JackJJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 -🔭 I know how to write C++, C, C# and Python
 -🌱 I use Unity3D to make games
